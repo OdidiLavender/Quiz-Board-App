@@ -36,3 +36,13 @@ body{
     border-radius: 5px;
     box-shadow: 5px;
 }
+.info_box .info_title{
+    height: 60px ;
+    width:100% ;
+    border-bottom: 1px solid lightcoral;
+    display: flex;
+    align-items: center;
+    padding:0 35px;
+    font-size: 20px;
+    font-weight: 600;
+}
