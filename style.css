@@ -35,7 +35,7 @@ body{
     cursor: pointer;
 }
 .info_box{
-    width: 500px;
+    width: 540px;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -79,11 +79,18 @@ body{
  color:red;
  border-color: red;
 }
+.buttons button.quit:hover{
+    color:red;
+    border-color: red;
+}
 .buttons button.restart{
     color:#fff;
-    border-color: #007bff;
+   
     background: #007bff;
 }   
+.buttons button.restart:hover{
+  background: #007bff;
+}
 .word{
 font-size: 15px;
 color: black;
