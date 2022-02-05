@@ -6,7 +6,7 @@
 }
 
 body{
-    background: lavender;
+    background: rgb(155, 212, 216);
 }
 
 ::selection{
@@ -184,12 +184,12 @@ section .que_text{
     font-weight: 600;
 }
 
-section .option_list{
+section .choices_list{
     padding: 20px 0px;
     display: block;   
 }
 
-section .option_list .option{
+section .choices_list .option{
     background: aliceblue;
     border: 1px solid #84c5fe;
     border-radius: 5px;
@@ -203,33 +203,33 @@ section .option_list .option{
     justify-content: space-between;
 }
 
-section .option_list .option:last-child{
+section .choices_list .choices:last-child{
     margin-bottom: 0px;
 }
 
-section .option_list .option:hover{
+section .choices_list .choices:hover{
     color: #004085;
     background: #e5e19b;
     border: 1px solid #b8daff;
 }
 
-section .option_list .option.correct{
-    color: #155724;
+section .choices_list .choices.correct{
+    color: #004085;
     background: #85cfc3;
-    border: 1px solid #62dce0;
+    border: 1px solid #d4edda;
 }
 
-section .option_list .option.incorrect{
+section .choices_list .choices.incorrect{
     color: red;
     background: #b12533;
     border: 1px solid #dfd5d6;
 }
 
-section .option_list .option.disabled{
+section .choices_list .choices.disabled{
     pointer-events: none;
 }
 
-section .option_list .option .icon{
+section .choices_list .choices.icon{
     height: 26px;
     width: 26px;
     border: 2px solid transparent;
@@ -240,13 +240,13 @@ section .option_list .option .icon{
     transition: all 0.3s ease;
     line-height: 24px;
 }
-.option_list .option .icon.tick{
+.choices_list .choices .icon.tick{
     color: #23903c;
     border-color: #23903c;
     background: #d4edda;
 }
 
-.option_list .option .icon.cross{
+.choices_list .choices .icon.cross{
     color: #a42834;
     background: #f8d7da;
     border-color: #a42834;
