@@ -17,3 +17,15 @@ body{
     transform: translate(-50%, -50%);
 }
 /* styling the start button */ 
+.start_btn button{
+    font-size: 25px;
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5%;
+    background-color: #fff;
+    cursor: pointer;
+}
