@@ -55,59 +55,59 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
-  {
-    numb: 6,
-    question: "Which type of language is Javascript ?",
-    answer: " Line break",
-    options: [
-      " Programming",
-       "Scripting",
-    "Markup",
-    "None of the above"
-    ]
-  },
-  {
-    numb: 7,
-    question: "Which is not valid data type in Javascript ?",
-    answer: "  float",
-    options: [
-      "Undefinded",
-      "Boolean",
-      "float",
-      "Number",
-    ]
-  },
-  {
-    numb: 8,
-    question: "Gif and jpg are the two main types of what?",
-    answer: "images",
-    options: [
-      "videos",
-      "Paragraph break",
-      " animated effects",
-      "images"
-    ]
-  },
-  {
-    numb: 9,
-    question: "Increasing the cellpadding means ?",
-    answer: "Increase the distance between cell and content",
-    options: [
-      "Increase the softness of your site",
-      "Increase the space between cells",
-      "Increase the distance between cell and content",
-      "All of the above",
-    ]
-  },
-  {
-    numb: 10,
-    question: "Adding a border to your image helps the visitor to recognize it as what?",
-    answer: " A link",
-    options: [
-      "A frame",
-      "A link" ,
-      "A picture",
-      " None of the above",
-    ]
-  },
+  // {
+  //   numb: 6,
+  //   question: "Which type of language is Javascript ?",
+  //   answer: " Line break",
+  //   options: [
+  //     " Programming",
+  //      "Scripting",
+  //   "Markup",
+  //   "None of the above"
+  //   ]
+  // },
+  // {
+  //   numb: 7,
+  //   question: "Which is not valid data type in Javascript ?",
+  //   answer: "  float",
+  //   options: [
+  //     "Undefinded",
+  //     "Boolean",
+  //     "float",
+  //     "Number",
+  //   ]
+  // },
+  // {
+  //   numb: 8,
+  //   question: "Gif and jpg are the two main types of what?",
+  //   answer: "images",
+  //   options: [
+  //     "videos",
+  //     "Paragraph break",
+  //     " animated effects",
+  //     "images"
+  //   ]
+  // },
+  // {
+  //   numb: 9,
+  //   question: "Increasing the cellpadding means ?",
+  //   answer: "Increase the distance between cell and content",
+  //   options: [
+  //     "Increase the softness of your site",
+  //     "Increase the space between cells",
+  //     "Increase the distance between cell and content",
+  //     "All of the above",
+  //   ]
+  // },
+  // {
+  //   numb: 10,
+  //   question: "Adding a border to your image helps the visitor to recognize it as what?",
+  //   answer: " A link",
+  //   options: [
+  //     "A frame",
+  //     "A link" ,
+  //     "A picture",
+  //     " None of the above",
+  //   ]
+  // },
 ];
