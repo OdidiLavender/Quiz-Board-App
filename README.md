@@ -17,7 +17,7 @@
 
 ## Figma link quiz board design
 
-https://www.figma.com/file/iWmyQEjYh788P39XkP3Qht/Untitled?node-id=0%3A1
+<link>https://www.figma.com/file/iWmyQEjYh788P39XkP3Qht/Untitled?node-id=0%3A1</link>
 
 ## Project setup instructions
 A Simple website in progress were about a Quiz board app
