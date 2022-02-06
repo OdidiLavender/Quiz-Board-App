@@ -60,8 +60,8 @@ let questions = [
     question: "Which type of language is Javascript ?",
     answer: " Line break",
     options: [
-    " Programming",
-     "Scripting",
+      " Programming",
+       "Scripting",
     "Markup",
     "None of the above"
     ]
